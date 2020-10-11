@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="800.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+  <tabs>
+    <Tab fx:id="tab1" text="Пузырёк ">
+    </Tab>
+    <Tab fx:id="tab2" text="Пузырёк файл">
+    </Tab>
+    <Tab fx:id="tab3" text="Прямое включение">
+    </Tab>
+    <Tab fx:id="tab4" text="Прямое включение файл">
+    </Tab>
+  </tabs>
+</TabPane>
